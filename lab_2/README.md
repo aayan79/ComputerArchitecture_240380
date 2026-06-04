@@ -39,7 +39,8 @@ Logic gates serve as the foundational structural elements of modern digital syst
 
 The generated Value Change Dump (`.vcd`) file was visualized using GTKWave to confirm timing accuracy and signal transitions.
 
-<img width="1919" height="1020" alt="Output (1)" src="https://github.com/user-attachments/assets/2a182767-1521-484b-a55d-80ea230a8766" />
+<img width="1919" height="664" alt="Output (1)" src="https://github.com/user-attachments/assets/2d2b5119-1104-4cd1-989b-f9a0d0c0801d" />
+
 
 
 ---
